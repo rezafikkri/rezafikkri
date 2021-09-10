@@ -1,5 +1,5 @@
 ### Assalamu'alaikum Warohmatulloh Wabarokatuh :hand:
-Hello, my name is Reza Sariful Fikri. I am a Web Developer, like coding, make applications which are useful for peoples, and write tutorial or article, you can read [my personal blog](https://fikkri-reza.medium.com/) or [my blog specific for Web Programming](https://amrukcode.medium.com).
+Nama saya Reza Sariful Fikri, saya adalah seorang Web Developer. Coding adalah hobi saya. Saya suka membuat aplikasi yang bermanfaat bagi orang lain, serta juga suka menulis artikel atau tutorial. Kamu bisa membaca blog saya di [amruk.medium.com](https://amrukcode.medium.com).
 
-- :house: I live in Bengkulu Province, Kepahiang Regency, Indonesia.
-- :books: I am currently develop [Point Of Sales Warung app](https://github.com/rezafikkri/Point-Of-Sales-Warung) and learning Fundamental Frontend Web Development in www.dicoding.com.
+- :house: Saya tinggal di Kabupaten Kepahiang, Provinsi Bengkulu, Indonesia.
+- :books: Saya sekarang sedang mengembangkan [Point Of Sales Warung app](https://github.com/rezafikkri/Point-Of-Sales-Warung) dan belajar Fundamental Frontend Web Development di www.dicoding.com.
