@@ -6,4 +6,4 @@ Nama saya Reza Sariful Fikri, saya adalah seorang Backend Web Developer. Coding 
 
 Jangan lupa **Free Palestine**, berikan hadiah terbaik untuk saudara kita di Palestina, melalui [INH](https://inh.or.id/).
 
-Last edit: 24 November 2024
+<i>Last edit: 24 November 2024</i>
