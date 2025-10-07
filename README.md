@@ -4,6 +4,6 @@ Nama saya Reza Sariful Fikri, saya adalah seorang Backend Web Developer. Coding 
 - :house: Saya tinggal di Kabupaten Kepahiang, Provinsi Bengkulu, Indonesia.
 - :books: Saya sekarang sedang mempelajari dan mendalami Laravel.
 
-Jangan lupa **Free Palestine**, berikan hadiah terbaik untuk saudara kita di Palestina, melalui [INH](https://inh.or.id/).
+**Free Palestine**, berikan hadiah terbaik untuk saudara kita di Palestina, melalui [INH](https://inh.or.id/).
 
 <i>Last edit: 24 November 2024</i>
